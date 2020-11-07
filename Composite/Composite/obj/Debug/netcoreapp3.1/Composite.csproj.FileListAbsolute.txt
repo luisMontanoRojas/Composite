@@ -1,0 +1,11 @@
+C:\Users\Luis\Desktop\PatronEstructural\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.exe
+C:\Users\Luis\Desktop\PatronEstructural\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.deps.json
+C:\Users\Luis\Desktop\PatronEstructural\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.json
+C:\Users\Luis\Desktop\PatronEstructural\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.dev.json
+C:\Users\Luis\Desktop\PatronEstructural\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.dll
+C:\Users\Luis\Desktop\PatronEstructural\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.pdb
+C:\Users\Luis\Desktop\PatronEstructural\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.csprojAssemblyReference.cache
+C:\Users\Luis\Desktop\PatronEstructural\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\PatronEstructural\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfo.cs
+C:\Users\Luis\Desktop\PatronEstructural\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.dll
+C:\Users\Luis\Desktop\PatronEstructural\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.pdb
